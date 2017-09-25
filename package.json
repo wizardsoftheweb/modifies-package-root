@@ -1,5 +1,5 @@
 {
-  "name": "@wizardsoftheweb/modifies-package-root",
+  "name": "@wizardsoftheweb/modifies-root-package",
   "version": "0.0.2",
   "description": "An API to modify the owning package",
   "main": "index.js",

@@ -1,6 +1,6 @@
-# `@wizardsoftheweb/modifies-package-root`
+# `@wizardsoftheweb/modifies-root-package`
 
-[![Build Status](https://travis-ci.org/wizardsoftheweb/modifies-package-root.svg?branch=master)](https://travis-ci.org/wizardsoftheweb/modifies-package-root) [![Coverage Status](https://coveralls.io/repos/github/wizardsoftheweb/modifies-package-root/badge.svg?branch=master)](https://coveralls.io/github/wizardsoftheweb/modifies-package-root?branch=master)
+[![Build Status](https://travis-ci.org/wizardsoftheweb/modifies-root-package.svg?branch=master)](https://travis-ci.org/wizardsoftheweb/modifies-package-root) [![Coverage Status](https://coveralls.io/repos/github/wizardsoftheweb/modifies-package-root/badge.svg?branch=master)](https://coveralls.io/github/wizardsoftheweb/modifies-package-root?branch=master)
 
 <!-- MarkdownTOC -->
 
@@ -20,14 +20,14 @@
 
 <!--
 ```bash
-npm install @wizardsoftheweb/modifies-package-root
+npm install @wizardsoftheweb/modifies-root-package
 ```
 -->
 
 ### Dev version
 
 ```
-npm install --save git+https://github.com/wizardsoftheweb/modifies-package-root
+npm install --save git+https://github.com/wizardsoftheweb/modifies-root-package
 ```
 
 ## Tests
