@@ -1,0 +1,37 @@
+{
+  "name": "@wizardsoftheweb/modifies-package-root",
+  "version": "0.0.0",
+  "description": "An API to modify the owning package",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "cross-env NODE_ENV=test nyc mocha"
+  },
+  "author": "CJ Harries <cj@wizardsoftheweb.pro> (https://wizardsoftheweb.pro/)",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/bluebird": "^3.5.11",
+    "@types/chai": "^4.0.4",
+    "@types/mocha": "^2.2.43",
+    "@types/node": "^8.0.30",
+    "@types/shelljs": "^0.7.4",
+    "@types/sinon": "^2.3.5",
+    "@types/sinon-chai": "^2.7.29",
+    "@wizardsoftheweb/nyc-config-typescript": "^1.0.1",
+    "chai": "^4.1.2",
+    "coveralls": "^2.13.1",
+    "cross-env": "^5.0.5",
+    "mocha": "^3.5.3",
+    "nyc": "^11.2.1",
+    "sinon": "^3.3.0",
+    "sinon-chai": "^2.13.0",
+    "ts-node": "^3.3.0",
+    "typescript": "^2.5.2"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "shelljs": "^0.7.8"
+  }
+}
