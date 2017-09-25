@@ -1,6 +1,6 @@
 {
   "name": "@wizardsoftheweb/modifies-package-root",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "An API to modify the owning package",
   "main": "index.js",
   "directories": {
